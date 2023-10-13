@@ -1,0 +1,100 @@
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frm_Welcome.resources
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frm_settings.resources
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frm_ZoneJeu.resources
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\kamel\Documents\Slam\TicTacToe\TicTacToe\obj\Debug\TicTacToe.application
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\bin\Debug\TicTacToe.application
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\bin\Debug\TicTacToe.exe
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.frm_settings.resources
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.frm_Welcome.resources
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.application
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.exe
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\A\Tic-Tac-Toe-App-Winform-master\TicTacToe\obj\Debug\TicTacToe.frm_TroChoi.resources
+D:\A\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\A\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+D:\A\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.application
+D:\A\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe
+D:\A\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_settings.resources
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_Welcome.resources
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_TroChoi.resources
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.application
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.exe
+D:\A\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_settings.resources
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_Welcome.resources
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_TroChoi.resources
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\lethu\Downloads\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.application
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_settings.resources
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_Welcome.resources
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_TroChoi.resources
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.application
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_settings.resources
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_Welcome.resources
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.frm_TroChoi.resources
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.application
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\lethu\Downloads\TH trí tuệ nhân tạo (đồ án)\TicTacToe_MiNiMax\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
